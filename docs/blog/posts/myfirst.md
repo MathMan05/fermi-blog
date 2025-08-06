@@ -1,29 +1,24 @@
 ---
 date:
-  created: 2023-12-31
-  updated: 2024-01-02
-readtime: 15
+  created: 2025-08-25
 pin: true
 links:
   - Homepage: index.md#project-layout
   - Blog index: blog/index.md
-  - External links:
-    - Material documentation: https://squidfunk.github.io/mkdocs-material
+  - Fermi: https://Fermi.com
 categories:
-  - Holidays
+  - Meta
 tags:
-  - new year
-  - hogmanay
-  - festive season
+  - blog-meta
 authors:
-  - team
-slug: ny-eve
+  - mathium05
+slug: first
 ---
 
-# Happy new years eve!
+# Finally got the blog engine up and running
 
-We hope you are all having fun and wish you all the best for the new year!
-<!-- more -->
+After nearly a month after the polls of people wanting to see a blog about Fermi, it's finally happened, I've made a blog. I am going to try to do weekly updates on the status of Fermi or various other projects as they come up. (Though don't be surprised if I don't do a post every week)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+I tried to set this up a few weeks ago, though I failed as I couldn't get the engine to work, turns out I forgot to install a few deps that made it not want to work, and now that they're installed everything seems to be fine and dandy.
+
+If anyone has suggestions on what things I may have missed on this blog, feel free to inform me so I may correct it or make various improvements.

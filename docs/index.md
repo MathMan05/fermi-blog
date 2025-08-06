@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Mathium05's blog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Come here for updates on Fermi and Mathium's other projects! I'll be trying my best to do weekly updates here, though it may not always happen, or posts may be late.
 
-## Commands
+[About me](mathium.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[RSS feed](feed_rss_created.xml)
 
-## Project layout
+[Contact me](mailto:mathium@fermi.chat)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<!-- material/tags -->

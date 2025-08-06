@@ -1,2 +1,2 @@
-# Tag index  for the blog
+# Posts
 <!-- material/tags { scope: true } -->
