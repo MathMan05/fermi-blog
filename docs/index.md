@@ -6,6 +6,6 @@ Come here for updates on Fermi and Mathium's other projects! I'll be trying my b
 
 [RSS feed](feed_rss_created.xml)
 
-[Contact me](mailto:mathium@fermi.chat)
+<a href="mailto:mathium@fermi.chat" rel="me">Contact me</a>
 
 <!-- material/tags -->
