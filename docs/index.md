@@ -8,4 +8,6 @@ Come here for updates on Fermi and Mathium's other projects! I'll be trying my b
 
 <a href="mailto:mathium@fermi.chat" rel="me">Contact me</a>
 
+<a href="https://github.com/MathMan05" rel="me">My Github</a>
+
 <!-- material/tags -->
