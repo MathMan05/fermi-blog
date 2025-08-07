@@ -4,6 +4,7 @@ site_url: https://blog.fermi.chat
 
 theme:
   name: material
+  favicon: logo.webp
   features:
     - navigation.indexes
   palette:
