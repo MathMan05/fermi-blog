@@ -151,13 +151,6 @@ smmap==5.0.1
 sortedcontainers==2.4.0
 soupsieve==2.6
 sympy==1.14.0
-systemd-python==235
-termcolor==2.5.0
-tiktoken==0.8.0
-tinycss2==1.4.0
-tomlkit==0.13.3
-tqdm==4.67.1
-trash-cli==0.24.5.26
 treq==24.9.1
 trove-classifiers==2025.5.9.12
 Twisted==24.3.0
