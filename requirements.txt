@@ -29,7 +29,6 @@ crashtest==0.4.1
 cryptography==45.0.5
 cssselect==1.2.0
 cycler==0.12.1
-dbus-python==1.4.0
 defusedxml==0.7.1
 Deprecated==1.2.18
 deprecation==2.1.0
