@@ -12,6 +12,7 @@ tags:
 authors:
   - mathium05
 slug: first
+comments: true
 ---
 
 # Finally got the blog engine up and running

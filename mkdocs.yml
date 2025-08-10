@@ -5,6 +5,7 @@ repo_url: https://github.com/MathMan05/Fermi
 theme:
   name: material
   favicon: logo.webp
+  custom_dir: overrides
   features:
     - navigation.indexes
   palette:

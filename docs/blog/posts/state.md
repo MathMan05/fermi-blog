@@ -12,6 +12,7 @@ tags:
 authors:
   - mathium05
 slug: state-of
+comments: true
 ---
 
 # The State of Fermi
