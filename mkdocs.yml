@@ -1,7 +1,7 @@
 site_name: Mathium05's blog
 site_description: A blog of Mathium05's various projects, including Fermi
 site_url: https://blog.fermi.chat
-
+repo_url: https://github.com/MathMan05/Fermi
 theme:
   name: material
   favicon: logo.webp
