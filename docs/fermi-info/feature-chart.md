@@ -1,6 +1,6 @@
 This is a chart to try and help compare all of the features of clients and the server, to let users know what is and isn't working yet. This should help make comparisons easier.
 
-| Feature | [Spacebar](https://github.com/spacebarchat/server) | [Fermi](https://fermi.chat) | [React Client](https://app.spacebar.chat/) |
+| Feature | [Spacebar Server](https://github.com/spacebarchat/server) | [Fermi](https://fermi.chat) | [React Client](https://app.spacebar.chat/) |
 | --- | ---- | --- | --- |
 | DMs | ✅ | [✅🛈]("Not all features are supported, but most of the work is done") | ❌ |
 | Embeds | ✅ | ✅ | ✅ |
