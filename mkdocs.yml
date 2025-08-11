@@ -59,6 +59,7 @@ hooks:
 
 markdown_extensions:
   - attr_list
+  - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -68,3 +69,6 @@ nav:
   - Blog:
      - blog/index.md
      - blog/tags.md
+  - Fermi Information:
+    - fermi-info/index.md
+    - fermi-info/feature-chart.md
