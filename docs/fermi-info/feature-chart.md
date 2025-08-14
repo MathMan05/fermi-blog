@@ -19,7 +19,7 @@ This is a chart to try and help compare all of the features of clients and the s
 | Gateway reconnection[🛈]("This allows clients to resume without restarting the software") | [✅🛈]("The RESUME event is not supported so it's not as graceful as one would hope") | ✅ | [❌🛈]("It is supported in the code, but there's currently a bug where it causes the client to make repeated requests to the server causing undue strain so is disabled") |
 | Profile editing | ✅ | ✅ | [⏳🛈]("Only setting the pfp is supported") |
 | Profile viewing | ✅ | [✅⏳🛈]("Profiles mostly work but aren't complete yet") | [⏳🛈]("Only some parts of profiles work") |
-| Mobile support | N/A | [✅⏳🛈]("It works, though more work could be done to improve it") | ✅ |
+| Mobile support | N/A | [✅⏳🛈]("It works, though more work could be done to improve it") | ❌ |
 | Channel reordering | ✅ | ✅ | ❌ |
 | Channel creation | ✅ | ✅ | ✅ |
 | Permission settings | ✅ | [✅⏳🛈]("Only role permissions are currently supported") | ❌ |
@@ -40,7 +40,7 @@ This is a chart to try and help compare all of the features of clients and the s
 | 2FA[🛈]("Two factor authentication") | [✅🛈]("Only supports time based codes") | [✅🛈]("Needs to gain the feature to download backup codes") | [⏳🛈]("Only supporting logging in with it, but not creating the 2FA") |
 | Status | [⏳🛈]("Does not support setting it when a session is already active and has a few bugs with it") | [✅🛈]("Does not fully work due to the server issues") | [⏳🛈]("Only supports viewing") |
 | Markdown | N/A | ✅ | ✅ |
-| Editing messages | [✅🛈]("Link Embeds have a bug where they'll duplicate") | ✅ | ❌ |
+| Editing messages | [✅🛈]("Link Embeds have a bug where they'll duplicate and reactions don't persist") | ✅ | ❌ |
 | Message pinning | ✅ | ✅ | ❌ |
 | Embed creation | N/A | ❌ | ❌ |
 | Account switching | N/A | ✅ | ❌ |
