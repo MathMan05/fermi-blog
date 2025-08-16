@@ -15,8 +15,8 @@ slug: updates
 comments: true
 ---
 
-# Logging Out, Bundling and Bug Fixing!
-This week fermi has gotten several updates which includes, bundling, logging out, long message collapsing, and bug fixing
+# Logging Out, Bundling, Large Profiles, and Bug Fixing!
+This week fermi has gotten several updates which includes, bundling, logging out, long message collapsing, large profiles, and bug fixing
 
 <!-- more -->
 
