@@ -12,7 +12,7 @@ This is a chart to try and help compare all of the features of clients and the s
 | Logging in | ✅ | ✅ | ✅ | 
 | Creating accounts | ✅ | ✅ | [✅🛈]("Does not have a TOS box") | 
 | Deleting accounts | ✅ | ✅ | ❌ | 
-| Logging out | ✅ | ❌ | ✅ | 
+| Logging out | ✅ | ✅ | ✅ | 
 | Friend requests | ✅ | [⏳🛈]("Menu needs reworking") | ❌ |
 | Notifications | N/A | ✅ | ❌ |
 | Push Notifications | ❌ | [❌🛈]("While possible with the web, there's currently no server support from spacebar") | ❌ |
