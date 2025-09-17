@@ -3,6 +3,7 @@ This is a chart to try and help compare all of the features of clients and the s
 | Feature | [Spacebar Server](https://github.com/spacebarchat/server) | [Fermi](https://fermi.chat) | [React Client](https://app.spacebar.chat/) |
 | --- | ---- | --- | --- |
 | DMs | ✅ | [✅🛈]("Not all features are supported, but most of the work is done") | ❌ |
+| Per channel drafts | N/A | ✅ | ❌ |
 | Embeds | ✅ | ✅ | ✅ |
 | Reactions | [✅🛈]("There's currently a bug where all of the people who've reacted to a message are sent with the message instead of just the first few") | ✅ | ❌ |
 | File uploading | [✅🛈]("Only old style file uploading is supported") | ✅ | ✅ |
