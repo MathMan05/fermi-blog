@@ -7,7 +7,7 @@ This is a chart to try and help compare all of the features of clients and the s
 | Embeds | ✅ | ✅ | ✅ |
 | Reactions | [✅🛈]("There's currently a bug where all of the people who've reacted to a message are sent with the message instead of just the first few") | ✅ | ❌ |
 | File uploading | [✅🛈]("Only old style file uploading is supported") | ✅ | ✅ |
-| Voice chats | [✅🛈]("Not enabled by default is known to have issues on some platforms") | [⏳🛈]("Only chromium works right now") | ❌ | 
+| Voice chats | [✅🛈]("Not enabled by default is known to have issues on some platforms") | [✅⏳🛈]("Most of the way there, works in both chromium and firefox") | ❌ | 
 | Video chats | [✅🛈]("Not enabled by default is known to have issues on some platforms") | [⏳🛈]("Only chromium works right now") | ❌ | 
 | Live streams | [✅🛈]("Not enabled by default is known to have issues on some platforms") | [⏳🛈]("Only chromium works right now") | ❌ | 
 | Logging in | ✅ | ✅ | ✅ | 
