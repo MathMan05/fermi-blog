@@ -4,7 +4,7 @@ date:
 pin: true
 links:
   - Homepage: index.md
-  - Fermi: https://Fermi.com
+  - Fermi: https://fermi.chat
 categories:
   - Fermi
 tags:
