@@ -1,3 +1,4 @@
 Sitemap: https://blog.fermi.chat/sitemap.xml
+User-agent: *
 Disallow: /feed_rss_created.xml
 Disallow: /cdn-cgi/l/email-protection
