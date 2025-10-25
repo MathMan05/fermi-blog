@@ -21,7 +21,8 @@ This week has been a lot of work on getting the outline of interaction working, 
 
 <!-- more -->
 ### Thinking about stable releases
-With Fermi getting more and more features, a stable release is starting to look viable and like a good option for those who just want to use Fermi as a chat platform and don't need the newest features all of the time, though I don't know exactly how to do this yet, or how often to release new builds of Fermi. (I am very open to advice/ideas) Also with this there are a few things I do think need to be finished before a stable release should happen
+With Fermi getting more and more features, a stable release is starting to look viable and like a good option for those who just want to use Fermi as a chat platform and don't need the newest features all of the time, though I don't know exactly how to do this yet, or how often to release new builds of Fermi. (I am very open to advice/ideas) Also with this there are a few things I do think need to be finished before a stable release should happen:
+
 * Better mobile support
 * Fixing all of the icons (I know they're not the best)
 * WebRTC fixes (it's a lot better, but it still needs some polish)
