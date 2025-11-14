@@ -32,7 +32,7 @@ A steady pace forward with various improvements to Fermi, which includes improvi
 ### Documentation On How to Statically Host
 [I now have documentation on how to statically host Fermi!](https://github.com/MathMan05/Fermi/blob/main/howToStaticallyHost.md)
 ### Improved Home Page
-The home page has been reworked slightly, along with a new slideshow a the top showing screenshots of the client in action to show new users what Fermi is capable of!
+The home page has been reworked slightly, along with a new slideshow at the top showing screenshots of the client in action to show new users what Fermi is capable of!
 
 ### Minor improvements
 * [Blobmoji is now an option in the emoji picker](https://github.com/MathMan05/Fermi/issues/145)
