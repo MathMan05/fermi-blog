@@ -62,6 +62,7 @@ While not a super helpful metric, it's always interesting to see how it's growin
 * Copy ID is now in the Permissions menu
 * https:// is now assumed if provided a domain with nothing else [Implements](https://github.com/MathMan05/Fermi/issues/165)
 * 3 stickers per row by making them slightly more narrow
+* Invites to guilds are now more intuitive
 
 ### Bug fixes
 * 0 Volume is no longer overridden with 100
