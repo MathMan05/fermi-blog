@@ -77,7 +77,7 @@ For those who are wondering about WebRTC progress, while I myself haven't done a
 
 While not implemented in Fermi, the server also now has the ability to send the recent ping endpoint, which could be implemented into Fermi if there is interest in that. But this should be noted as other clients might use this endpoint. There's also been steps to prevent situations where the access token key might get lost, and similar steps have also been taken to stop them from being constantly read off of the disk and cache it in memory. (thanks Emma again for all of these nice patches)
 
-Admin API now requires the OPERATOR RIGHT to access, and it did not before, though please note that this 
+Admin API now requires the OPERATOR RIGHT to access, and it did not before, though please note that this was not an issue before, as it was an optional component, and was not enabled by default, though now it should be more secure to expose it. (Thanks to Emma for fixing this)
 
 
 ### The Best Way of Reporting Bugs/Feature Requests
