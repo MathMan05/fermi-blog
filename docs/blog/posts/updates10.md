@@ -14,7 +14,7 @@ authors:
 slug: updates
 comments: true
 description: This week in Fermi I've implemented Member list fixes and improvements, channel icons, and have fixed the bug in spacebar that prevented status's from updating while the client was running. 
-
+---
 # Member list fixes, Channel icons and Status fixes!
 This week in Fermi I've implemented Member list fixes and improvements, channel icons, and have fixed the bug in spacebar that prevented status's from updating while the client was running. 
 
