@@ -13,6 +13,7 @@ authors:
   - mathium05
 slug: updates
 comments: true
+description: A less active week for development in Fermi, some bug fixes were done
 ---
 
 # Less active week

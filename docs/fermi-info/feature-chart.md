@@ -1,3 +1,6 @@
+---
+description: A feature chart comparing spacebar and spacebar clients
+---
 This is a chart to try and help compare all of the features of clients and the server, to let users know what is and isn't working yet. This should help make comparisons easier.
 
 ??? warning "Notice"

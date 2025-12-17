@@ -1,3 +1,6 @@
+---
+description: Welcome to Mathium05's website/blog!
+---
 # Welcome to Mathium05's blog
 
 Come here for updates on Fermi and Mathium's other projects! I'll be trying my best to do weekly updates here, though it may not always happen, or posts may be late.
