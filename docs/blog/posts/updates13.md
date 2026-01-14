@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2026-01-26
+  created: 2026-01-03
 pin: true
 links:
   - Homepage: index.md
