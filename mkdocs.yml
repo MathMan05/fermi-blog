@@ -22,7 +22,8 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
 
-
+watch:
+    - docs
 
 plugins:
   - search
@@ -73,3 +74,4 @@ nav:
   - Fermi Information:
     - fermi-info/index.md
     - fermi-info/feature-chart.md
+  - Discord Alternatives: discordAlts
