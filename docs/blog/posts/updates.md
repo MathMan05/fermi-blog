@@ -61,4 +61,4 @@ I've finally added support for the full screen profile, while it's not quite fin
 * [The scroller should no longer crash to very long messages](https://github.com/MathMan05/Fermi/issues/77)
 * Fix crash that would happen if you clicked on a profile
 
-If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Spacebar Discord Server](https://discord.gg/JDjMXTGeY9)
+If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Harmony Discord Server](https://redir.fermi.chat/discord)

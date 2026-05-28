@@ -86,4 +86,4 @@ Docker builds now *should* be working again, so anyone who uses docker should be
 * [message role pings send a weird object array instead of an array of snowflakes](https://github.com/spacebarchat/server/issues/1327)
 * [guild_folders was not able to shrink when set to a smaller array](https://github.com/spacebarchat/server/pull/1328/files) (patch submitted)
 
-If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Spacebar Discord Server](https://discord.gg/JDjMXTGeY9)
+If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Harmony Discord Server](https://redir.fermi.chat/discord)

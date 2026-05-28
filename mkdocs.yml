@@ -50,8 +50,8 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      name: Spacebar Discord server
-      link: https://discord.gg/JDjMXTGeY9
+      name: Harmony Discord server
+      link: https://redir.fermi.chat/discord
     - icon: fontawesome/brands/github
       name: Mathium05's github
       link: https://github.com/MathMan05

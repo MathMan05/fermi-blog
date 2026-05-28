@@ -48,4 +48,4 @@ There's now a selector for the font that your emoji will come from!
 * Fixed scaling bug for unloaded images
 * Fixed bug where emoji/gif box wouldn't work on mobile
 
-If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Spacebar Discord Server](https://discord.gg/JDjMXTGeY9)
+If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Harmony Discord Server](https://redir.fermi.chat/discord)

@@ -37,4 +37,4 @@ Firefox is now able to join Voice channels(of course if enabled on the server), 
 ### Sorry for the more lackluster week
 I've been busy with school stuff and motivation is rough, I hope to polish WebRTC next week and have more updates.
 
-If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Spacebar Discord Server](https://discord.gg/JDjMXTGeY9)
+If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Harmony Discord Server](https://redir.fermi.chat/discord)

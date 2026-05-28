@@ -28,4 +28,4 @@ I plan to finish my finding admins menu, though it's still a WIP, and I am think
 * ADMINISTRATOR role no longer shows all roles as being had
 * Context menus in popups now act normally and will go away
 
-If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Spacebar Discord Server](https://discord.gg/JDjMXTGeY9)
+If you guys have anything you'd like to see feel free to [open an issue](https://github.com/MathMan05/Fermi/issues/new) or say your ideas in the [Fermi Spacebar guild](https://fermi.chat/invite/USgYJo?instance=https%3A%2F%2Fspacebar.chat) or even the [Harmony Discord Server](https://redir.fermi.chat/discord)
